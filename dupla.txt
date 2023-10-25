@@ -1,0 +1,26 @@
+<HTML>
+<HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
+<BODY>
+<H1> Joao Victor </H1>
+<H2> 
+Git init 
+Git add . 
+git commit -m ""
+git add origin 
+git status
+git remote -v 
+git rm */
+git pull
+git push -u origin
+git checkout -b
+git branch 
+git log
+git reset HEAD
+git reset
+git merge 
+git config --global user.name ""
+git config --global user.email 
+
+ GIT<H2>
+</BODY>
+</HTML>
